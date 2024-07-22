@@ -1,0 +1,14 @@
+C:\LSP\LSPprogram\bin\Debug\net8.0\LSPprogram.exe
+C:\LSP\LSPprogram\bin\Debug\net8.0\LSPprogram.deps.json
+C:\LSP\LSPprogram\bin\Debug\net8.0\LSPprogram.runtimeconfig.json
+C:\LSP\LSPprogram\bin\Debug\net8.0\LSPprogram.dll
+C:\LSP\LSPprogram\bin\Debug\net8.0\LSPprogram.pdb
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.AssemblyInfoInputs.cache
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.AssemblyInfo.cs
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.csproj.CoreCompileInputs.cache
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.dll
+C:\LSP\LSPprogram\obj\Debug\net8.0\refint\LSPprogram.dll
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.pdb
+C:\LSP\LSPprogram\obj\Debug\net8.0\LSPprogram.genruntimeconfig.cache
+C:\LSP\LSPprogram\obj\Debug\net8.0\ref\LSPprogram.dll
